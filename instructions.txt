@@ -1,0 +1,2 @@
+run convert first and configure split info if choosing different training split other than first
+may need to redo paths

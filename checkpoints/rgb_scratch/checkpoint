@@ -1,0 +1,2 @@
+model_checkpoint_path: "/users/becky/documents/cmpe295/i3d-tensorflow/checkpoints/rgb_scratch/model.ckpt"
+all_model_checkpoint_paths: "/users/becky/documents/cmpe295/i3d-tensorflow/checkpoints/rgb_scratch/model.ckpt"
